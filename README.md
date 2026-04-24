@@ -31,7 +31,13 @@ Enables dynamic exploration of the data.
 ## 🛠️ Tools & Technologies
 Power BI (for dashboard creation) <br>
 Data Visualization Techniques <br>
-Data Cleaning & Transformation <br>
+Data Cleaning & Transformation <br> <br>
+
+
+## Dashboard Overview
+
+![dashboard](amazonSalesDashboard.png)
+
 
 
 ## 🎯 Purpose
